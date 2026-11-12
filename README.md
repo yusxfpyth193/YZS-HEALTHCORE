@@ -1,6 +1,6 @@
 # YZS-HEALTHCORE
 ## 1. Descripción del proyecto
-**YZS HealthCore** es una empresa tecnológica orientada a clínicas privadas diseñada para un escenario hipotético de ~50 usuarios y hasta 20 fuentes de datos de monitorización simuladas). Su propósito es diseñar, implantar y mantener la infraestructura informática segura, segmentada y automatizada para almacenar, proteger y facilitar el acceso autorizado a los datos procedentes de plataformas y chips de monitorización de pacientes. 
+**YZS HealthCore** es una empresa tecnológica orientada a clínicas privadas.El propósito es diseñar, implantar y mantener la infraestructura informática segura, segmentada y automatizada para almacenar, proteger y facilitar el acceso autorizado a los datos procedentes de plataformas y chips de monitorización de pacientes. 
 
 
 ## 2. Objetivo de la infraestructura
